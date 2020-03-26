@@ -1,7 +1,5 @@
 package _04_are_you_happy;
-
 import javax.swing.JOptionPane;
-
 public class areYouHappy {
 public static void main(String[] args) {
 	String answer1 = JOptionPane.showInputDialog("Are you happy?");
